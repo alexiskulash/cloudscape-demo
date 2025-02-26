@@ -1,5 +1,5 @@
 import { figmaMapping } from "@builder.io/dev-tools/figma";
-import { TextFilter } from "@/builder-components";
+import { TextFilter } from "@cloudscape-design/components";
 
 figmaMapping({
   componentKey: "4067802c99c825b20198338b38a2f743e8094c71",

@@ -1,5 +1,5 @@
 import { figmaMapping } from "@builder.io/dev-tools/figma";
-import { Input } from "@/builder-components";
+import { Input } from "@cloudscape-design/components";
 
 figmaMapping({
   componentKey: "9f56d1c87573504861f4b69a1a58eb37217270e8",

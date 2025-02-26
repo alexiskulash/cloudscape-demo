@@ -1,5 +1,5 @@
 import { figmaMapping, type BaseFigmaProps } from "@builder.io/dev-tools/figma";
-import { BreadcrumbGroup } from "@/builder-components";
+import { BreadcrumbGroup } from "@cloudscape-design/components";
 
 interface FigmaBreadcrumbProps extends BaseFigmaProps {
   Count?: "2x" | "3x" | "4x" | "5x";

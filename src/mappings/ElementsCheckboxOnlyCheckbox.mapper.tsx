@@ -1,5 +1,5 @@
 import { figmaMapping } from "@builder.io/dev-tools/figma";
-import { Checkbox } from "@/builder-components";
+import { Checkbox } from "@cloudscape-design/components";
 
 figmaMapping({
   componentKey: "3df20007f5244f2d1aff2b95444f7c3dfaf6df58",

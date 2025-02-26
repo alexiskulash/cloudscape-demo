@@ -1,5 +1,5 @@
 import { figmaMapping } from "@builder.io/dev-tools/figma";
-import { Pagination } from "@/builder-components";
+import { Pagination } from "@cloudscape-design/components";
 
 figmaMapping({
   componentKey: "f2f490468aa94d7b57808494f545a63437905860",

@@ -9,22 +9,6 @@ import {
   BarChart as BarChartBase,
 } from "@cloudscape-design/components";
 
-export {
-  Button,
-  TopNavigation,
-  Header,
-  Pagination,
-  TextFilter,
-  Input,
-  BreadcrumbGroup,
-  Icon,
-  Link,
-  FormField,
-  Checkbox,
-  SideNavigation,
-  HelpPanel,
-} from "@cloudscape-design/components";
-
 export const AreaChart = (props: AreaChartProps<any>) => {
   return <AreaChartBase {...props} series={props.series || []} />;
 };
